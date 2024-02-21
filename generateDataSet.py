@@ -2,8 +2,8 @@ import numpy as np
 
 def main():
     # abrir o arquivo
-    file = open("PosCair1.txt","r")
-    dataset = open("Dataset1.txt","a")
+    file = open("filename.txt","r")
+    dataset = open("filenameDataset.txt","a")
 
     #ler uma linha
     line = file.readline()
