@@ -9,7 +9,7 @@ import pandas as pd
 
 def main():
     # abre o arquivo do dataser
-    dataset = open("Dataset1.txt", "r")
+    dataset = open("filename.txt", "r")
 
     #cria o objeto com o algoritmo do knn
     knn_algorithm = knnAlgorithm()
