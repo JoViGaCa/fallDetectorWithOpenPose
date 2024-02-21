@@ -8,7 +8,11 @@ Applying the Knn algorithm considring a set of frames, the project was able to d
 ![alt text](https://github.com/JoViGaCa/fallDetectorWithOpenPose/blob/main/images/matrixAnalisysSet.png)
 
 In conclusion, the project made possible to detect fall:
+
+
 ![alt text](https://github.com/JoViGaCa/fallDetectorWithOpenPose/blob/main/images/bodyFalling.png)
 
 And "not fall":
+
+
 ![alt text](https://github.com/JoViGaCa/fallDetectorWithOpenPose/blob/main/images/bodyNotFalling.png)
