@@ -48,7 +48,7 @@ middle = [0,0]
 a = 0
 b = 0
 # Abre o arquivo com o dataset
-dataset = open("ModeloFrame.txt","r")
+dataset = open("datasetFrame.txt","r")
 # inicia a classe com o algoritmo
 knn_algorithm = knnAlgorithm()
 
