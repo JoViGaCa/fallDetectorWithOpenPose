@@ -54,7 +54,7 @@ b = 0
 model = []
 
 # Abre o arquivo com o dataset
-dataset = open("ModeloConj.txt","r")
+dataset = open("datasetConj.txt","r")
 
 # lê a primeira linha e atribui os valores
 line = dataset.readline()
